@@ -1,0 +1,20 @@
+const productos = [
+    {
+        id:1,
+        nombre:"Galletas",
+        precio:95,
+        img:"https://www.paulinacocina.net/wp-content/uploads/2022/04/galletas-de-chocolate-receta.jpg"
+    },
+    {
+        id:2,
+        nombre:"Cerveza",
+        precio:120,
+        img:"https://www.clarin.com/img/2022/08/04/dia-internacional-de-la-cerveza___ZOge84kZg_2000x1500__1.jpg"
+    },
+    {
+        id:3,
+        nombre:"Pizza",
+        precio:140,
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg"
+    },
+];
